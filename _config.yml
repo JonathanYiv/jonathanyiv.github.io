@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Jonathan Yiv"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg"
   bio              : "Ruby on Rails Developer"
   location         : "Raleigh, NC"
   email            : "JonathanYiv@gmail.com"

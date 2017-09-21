@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Learning with Jonathan"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Jonathan Yiv"
+description              : "Documentation on my learning journey."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,10 +79,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jonathan Yiv"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Raleigh, NC"
   email            :
   uri              :
   bitbucket        :
@@ -181,7 +181,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
-plugins:
+plugins_dir:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -247,3 +247,6 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# I added this line based on this: https://github.com/github/pages-gem/issues/399
+github: [metadata]

@@ -14,7 +14,7 @@ There are a few reasons for a new post:
 
 It's time for a new look at Odin.
 
-# Structure
+## Structure
 
 Here's how this post is structured:
 
@@ -28,7 +28,7 @@ Here's how this post is structured:
 
 5. How long will everything take?
 
-# Perspective
+## Perspective
 
 I started Odin without any prior experience, aside from a high school class on Java.
 
@@ -42,7 +42,7 @@ If you have prior coding experience, you will be able to skip sections you are f
 
 If your only computing experience only involved checking Facebook and googling, you may have to delve into the additional resources and will move through the curriculum more slowly.
 
-# Contributing
+## Contributing
 
 One of the strongest points of Odin is that it realizes that it can't hold all the best learning resources in its own hands.
 
@@ -50,7 +50,7 @@ There will always be a different way to learn for different people provided by d
 
 This strength exists if and only if you pay it forward by fleshing out the material.
 
-## Beginners
+### Beginners
 
 You will not know how to contribute until a third of the way into Web Development 101. [[Tutorial]](https://github.com/TheOdinProject/curriculum/blob/master/contributing.md)
 
@@ -62,7 +62,7 @@ You probably don't feel knowledgeable yet, but there are some situations where y
 
 3. Broken Link? See if you can find a recent version in the [Wayback Machine](https://archive.org/web/) to update the link, and if not, remove it.
 
-## Intermediate to Advanced
+### Intermediate to Advanced
 
 About halfway through Rails, you will find you are able to contribute at a more advanced level. This is great to develop experience working in a team workflow and encountering novel problems.
 
@@ -72,7 +72,7 @@ Check out the [Issues](https://github.com/TheOdinProject/theodinproject/issues) 
 
 Check out what [Projects](https://github.com/TheOdinProject/theodinproject/projects) are being worked on.
 
-# The Curriculum
+## The Curriculum
 
 Follow these simple rules.
 
@@ -86,7 +86,7 @@ Finally, don't just read example code, **type** the example code.
 
 *Be careful that you don't use rabbit holes or wanting perfect understanding as a means of procrastination.*
 
-## Introduction to Web Development
+### Introduction to Web Development
 
 This course is on the chopping block of the curators. 
 
@@ -94,7 +94,7 @@ If you have come to Odin with the intention to learn web development, go ahead a
 
 If you don't know if web development is for you, peruse through this section lightly to get a good grasp.
 
-## Web Development 101
+### Web Development 101
 
 While you go through this course, keep in mind that Odin will only briefly cover each topic to give you a taste of them.
 
@@ -102,7 +102,7 @@ All of the material that dives deeper into each subject is beyond Web Developmen
 
 It is good to ensure you understand the high level concepts primarily over the nitty gritty details.
 
-### Lesson Workflow
+#### Lesson Workflow
 
 The process for each lesson should be like so:
 
@@ -115,7 +115,7 @@ The process for each lesson should be like so:
 4. If you can answer and understand the questions listed in the Points to Ponder/Learning Outcomes section, move on to the next lesson.
 
 
-### Projects
+#### Projects
 
 The projects in Odin are meant to be challenging.
 
@@ -159,7 +159,7 @@ If you are lucky enough to get a partner, get it done. If you wait a few days an
 Make sure you don't just sit here and wait. I was halfway through the next course when I finally got around to this.
 
 
-## Ruby Programming
+### Ruby Programming
 
 Follow the same lesson workflow provided in the Web Development 101 commentary.
 
@@ -172,14 +172,14 @@ For those of you with exposure to a previous programming language, a lot of the 
 For those of you new to programming, this will probably be the hardest section. Going from not knowing the concepts of programming to knowing is a rough ride. Take it steady and make progress daily and soon you'll be beyond where you can imagine. 
 
 
-### File I/O
+#### File I/O
 
 I recommend delving deeper into serialization and JSON to get a better understanding. JSON is very widely used and is very important. 
 
 A pertinent additional project would be to implement the ability to save/load state in every game you implement throughout the Ruby course.
 
 
-### Testing
+#### Testing
 
 The resources and lessons on RSpec are limited, at best.
 
@@ -190,21 +190,21 @@ Don't punish yourself for not using TDD, because [TDD is dead](http://david.hein
 For the Connect Four project, don't make the mistake of doing it completely TDD.
 
 
-### Git
+#### Git
 
 The Git sections are extremely reading-heavy and lack enough practical application.
 
 Create some repositories and toy around with the different concepts to get a better idea.
 
 
-### Computer Science
+#### Computer Science
 
 While this section has seemingly low relation to web development, it is valuable to understand the importance of data structures and algorithms to the field of programming in general, especially for increasing your hireability.
 
 This is probably the hardest part of the Ruby course, but it is worth it.
 
 
-### Code Quality
+#### Code Quality
 
 One thing Odin has a gap on is establishing great code quality.
 
@@ -215,26 +215,26 @@ I recommend reading through these as you move through the course, applying their
 It wouldn't hurt to go back and refactor your initial Ruby projects as well for practice.
 
 
-## Ruby on Rails
+### Ruby on Rails
 
 [Pending...]
 
-## HTML5 and CSS3
+### HTML5 and CSS3
 
 [Pending...]
 
-## Javascript and jQuery
+### Javascript and jQuery
 
 [Pending...]
 
-## Getting Hired
+### Getting Hired
 
 [Pending...]
 
-# Results
+## Results
 
 [Pending...]
 
-# Timeframe
+## Timeframe
 
 [Pending...]

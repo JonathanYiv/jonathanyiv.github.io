@@ -10,7 +10,6 @@ Besides the projects which are interspersed throughout the curriculum, I do a fa
 
 This blog is a testament to that and will serve as documentation for what I am currently working on.
 
-
 There will be three core principles that I will adhere to going forward:
 
 * Write like you are teaching yourself a new concept.

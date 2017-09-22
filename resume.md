@@ -17,8 +17,19 @@ ___
 * Training
 * Operations
 
+<br>
 
+# Projects
 
+___
+
+Created this website.
+
+Fully implemented [Chess in Ruby](https://github.com/JonathanYiv/chess).
+
+See my [Portfolio](/portfolio) for more.
+
+<br>
 
 # Employment
 ___

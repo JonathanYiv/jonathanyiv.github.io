@@ -25,7 +25,7 @@ ___
 
 ___
 
-Created this website using Jekyll.
+Created this website using [Jekyll](https://jekyllrb.com).
 
 Fully implemented [Chess in Ruby](https://github.com/JonathanYiv/chess).
 

@@ -5,26 +5,11 @@ author_profile: true
 
 # Portfolio
 
+These projects were created with the intention of learning and understanding the fundamentals.
+
+No projects from step-by-step tutorials are listed.
+
 ___
 
-## Command Line Games
-
-### Chess
-
-[![Chess](/assets/images/chess.png)](https://github.com/JonathanYiv/chess)
-
-### Mastermind
-
-[![Mastermind](/assets/images/mastermind.png)](https://github.com/JonathanYiv/mastermind)
-
-### Connect Four
-
-[![Connect Four](/assets/images/connect_four.png)](https://github.com/JonathanYiv/connect_four)
-
-### Hangman
-
-[![Hangman](/assets/images/hangman.png)](https://github.com/JonathanYiv/hangman)
-
-### Tic-Tac-Toe
-
-[![Tic-Tac-Toe](/assets/images/tictactoe.png)](https://github.com/JonathanYiv/tic-tac-toe)
+1. Basic Web Applications
+2. [Command Line Games](/command-line-games)

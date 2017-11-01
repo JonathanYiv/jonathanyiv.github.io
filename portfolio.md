@@ -11,5 +11,5 @@ No projects from step-by-step tutorials are listed.
 
 ___
 
-1. Basic Web Applications
+1. [Basic Web Applications](/basic-web-apps)
 2. [Command Line Games](/command-line-games)

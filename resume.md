@@ -29,6 +29,8 @@ Created this website using [Jekyll](https://jekyllrb.com).
 
 Fully implemented [Chess in Ruby](https://github.com/JonathanYiv/chess).
 
+Created several small projects in Rails.
+
 See my [Portfolio](/portfolio) for more.
 
 <br>
@@ -40,30 +42,32 @@ ___
 
 <sub>Oct 2015 - Mar 2017</sub>
 
-Responsible for operations
-
-* Running shifts, training staff, analyzing metrics, performing customer service, working with vendors, and maintaining standards.
-
-Responsible for management
-
-* Interviewing, scheduling, hiring, training, marketing, setting goals, researching and implementing improvements, and setting the store culture.
-
 My store was a Top 300 Domino's store (out of ~13,000 at the time) with ~2 Million in yearly sales and several awards for sales/service/operations.
 
 I've been asked to speak at regional meetings.
 
-Five of my former Assistant Managers have become General Managers.
+Six of my former Assistant Managers have become General Managers.
+
+World's top-trained on Domino's Online training platform (Hive).
+
+### Responsibilities
+
+* **Operations:** Running shifts, training staff, analyzing metrics, performing customer service, working with vendors, and maintaining standards.
+
+* **Management:** Interviewing, scheduling, hiring, training, marketing, setting goals, researching and implementing improvements, and setting the store culture.
 
 
 ## Head Assistant Manager - Domino's
 
 <sub>Jul 2014 - Oct 2015</sub>
 
+During my tenure as head assistant manager, this store experienced massive sales growth, performance optimizations, and staff satisfaction.
+
+### Responsibilities
+
 Responsible for day-to-day operations
 
 * Running shifts, cross-training staff, maintaining food/labor costs, performing customer service, and maintaining standards.
-
-During my tenure as head assistant manager, this store experienced massive sales growth and performance optimizations.
 
 
 ## Delivery Driver - Domino's

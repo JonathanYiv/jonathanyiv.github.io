@@ -7,11 +7,13 @@ author_profile: true
 
 ___
 
-* HTML, CSS, jQuery
-* Javascript, Ruby, Rails, SQL
-* Git, RSpec, Heroku
+* Rails 5.1, Ruby 2.3, Git
+* HTML, CSS, MySQL
+* Javascript, jQuery
+* MiniTest, Heroku
 
 * Hiring
+* Communication
 * Marketing
 * Leadership
 * Training
@@ -23,7 +25,7 @@ ___
 
 ___
 
-Created this website.
+Created this website using Jekyll.
 
 Fully implemented [Chess in Ruby](https://github.com/JonathanYiv/chess).
 

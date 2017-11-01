@@ -132,7 +132,7 @@ This is meant to be hard. You were given a lot of information in a closed enviro
 
 This is what developers do. This is what they call [technical sophistication](https://www.learnenough.com/story).
 
-If you can't make yourself perserve by googling, critically thinking, and problem solving your way through this, you won't be able to make it.
+If you can't make yourself persevere by googling, critically thinking, and problem solving your way through this, you won't be able to make it.
 
 If you get through it, each project going forward will challenge you just the same, but the way you approach the challenge will get better and better.
 

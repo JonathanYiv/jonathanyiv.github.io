@@ -1,6 +1,6 @@
 **Warning:** This is a Work-in-Progress!
 
-**Disclaimer:** I am a student of The Odin Project and as such, I ardently support it.
+**Disclaimer:** I am a student and contributor of The Odin Project and as such, I ardently support it.
 
 This post was inspired by the commonly referenced and second top result for googling 'The Odin Project,' [Everyday Utilitarian's Notes on the Odin Project](http://everydayutilitarian.com/essays/notes-on-the-odin-project/).
 
@@ -217,7 +217,7 @@ It wouldn't hurt to go back and refactor your initial Ruby projects as well for 
 
 ### Ruby on Rails
 
-[Pending...]
+[Coming Soon!]
 
 ### HTML5 and CSS3
 

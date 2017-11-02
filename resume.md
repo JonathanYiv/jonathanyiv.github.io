@@ -44,7 +44,7 @@ ___
 
 My store was a Top 300 Domino's store (out of ~13,000 at the time) with ~2 Million in yearly sales and several awards for sales/service/operations.
 
-I've been asked to speak at regional meetings.
+I've been asked to and have spoken at regional meetings.
 
 Six of my former Assistant Managers have become General Managers.
 

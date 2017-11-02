@@ -11,18 +11,16 @@ Hey there!
 
 My name is Jonathan Yiv.
 
-In 2013, I ran away from home after graduating high school and started life anew.
+In 2013, I left home after graduating high school and started life independently.
 
-To support myself, I biked miles to my first job for minimum wage, but always strived to do better and climb higher.
+I biked miles to my first job for minimum wage to support myself.
 
-After two years of hard work, I had climbed several steps of the ladder to managing a multimillion dollar business with great success.
+After two years of hard work, I was managing my own store, and had built a great team of people that I relied on.
 
-I have a dream of climbing even higher and to be my own boss one day.
+The next big step in life for me is to become a software engineer.
 
-The next big step in my plan is to become a software engineer.
+I am passionate about building beautiful websites, managing big data, developing complex and concise business logic, using multiple languages, being a part of different workflows, seeing different creative solutions implemented for challenging problems, and making a difference.
 
-I want to build beautiful websites, manage big data, develop complex but concise business logic in the backend, learn multiple languages, experience the workflows of large and small teams, see different creative solutions implemented for challenging problems, and make a difference.
+I would like to be on the bleeding edge of technology one day.
 
-You can be a part of my journey by hiring me.
-
-I promise I won't disappoint.
+I promise you won't be disappointed if you hire me.

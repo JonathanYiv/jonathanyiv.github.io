@@ -42,9 +42,9 @@ ___
 
 <sub>Oct 2015 - Mar 2017</sub>
 
-My store was a Top 300 Domino's store (out of ~13,000 at the time) with ~2 Million in yearly sales and several awards for sales/service/operations.
+My store was a Top 300 Domino's store (out of ~13,000 at the time) with ~$2 Million in yearly sales and several awards for sales/service/operations.
 
-I've been asked to and have spoken at regional meetings.
+I have spoken, on request, at regional meetings.
 
 Six of my former Assistant Managers have become General Managers.
 
@@ -74,7 +74,7 @@ Responsible for day-to-day operations
 
 <sub>Mar 2014 - Jul 2014</sub>
 
-Ensured deliveries were packaged correctly, delivered quickly through usage of shortcuts or low traffic areas while adhering to traffics laws, and was friendly at the door.
+Ensured deliveries were packaged correctly, delivered quickly through usage of shortcuts or low traffic areas while adhering to traffic laws, and was friendly at the door.
 
 I would often take two deliveries while my coworkers took one.
 
@@ -83,15 +83,13 @@ I would often take two deliveries while my coworkers took one.
 
 <sub>Mar 2014 - Jul 2014</sub>
 
-Unloaded the truck and processed packages on a rapidly moving assembly line towards their correct palettes.
+Unloaded the truck and processed packages on a rapidly moving assembly line toward their correct palettes.
+
+Oversaw assembly line operations to ensure maximum efficiency.
 
 Properly stacked boxes on the palettes to achieve maximum height.
 
 Delivered palettes to appropriate store locations and filled shelves quickly and efficiently.
-
-There was a hierarchy where the newbies were on the assembly line and the best were inside unloading the truck. 
-
-I quickly worked my way up to being inside the truck and even floating to the assembly line to speed things along.
 
 
 ## Cart Attendant - Target
@@ -103,9 +101,3 @@ Ferried carts from cart racks into the store regularly to ensure the store was s
 Ensured shopping baskets were spread throughout the store and that the cashier bins were emptied out and processed accordingly.
 
 Floated to help cashiers, guest service, and food service.
-
-On Black Friday, there was an overnight shift I took for fun.
-
-Getting carts was incredibly difficult because it was dark and there were only one or two carts outside at any given time, meaning I was jogging from the lot to the store.
-
-Customers waited in a line for carts, and every cart that hit the parking lot was brought in within minutes.

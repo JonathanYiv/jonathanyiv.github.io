@@ -4,6 +4,12 @@ Ladies and gentlemen, I present to you...
 
 Let's shake it up, though, and address the concerns you probably have!
 
+1. You don't have a college degree! You aren't even in school!
+2. You don't have any programming work experience.
+3. You aren't skilled enough.
+4. "Developers" who learn from online curriculum are usually shallow and not well-rounded in their knowledge.
+5. You would not provide any benefits to our team as you are.
+
 ## Concern 1: You don't have a college degree! You aren't even in school!
 
 The typical response to this would be "Look at ____ who dropped out of school and is now a **billionaire!**" and then they would link you to an infographic like [this](https://blog.adioma.com/entrepreneurs-who-dropped-out-infographic/) or something.

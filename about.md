@@ -21,9 +21,9 @@ My next big step in life is to become a software engineer.
 
 I am passionate about building beautiful websites, managing big data, developing complex yet concise business logic, incorporating multiple languages, workflows, implementing creative solutions for challenging problems, and making a difference.
 
-I promise you won't be disappointed if you hire me.
+I am a proven asset that will be invaluable to your team.
 
-I have a track record of data-driven decisions, success, and working with a large team. 
+I have a track record of data-driven decisions, effective communication, and success.
 These skills will translate directly toward building an excellent product and having strong communication with you and our team.
 
 ...

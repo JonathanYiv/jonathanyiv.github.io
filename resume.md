@@ -76,8 +76,6 @@ Responsible for day-to-day operations
 
 Ensured deliveries were packaged correctly, delivered quickly through usage of shortcuts or low traffic areas while adhering to traffic laws, and was friendly at the door.
 
-I would often take two deliveries while my coworkers took one.
-
 
 ## Team Member - Target
 

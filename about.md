@@ -23,6 +23,8 @@ I am passionate about building beautiful websites, managing big data, developing
 
 I promise you won't be disappointed if you hire me.
 
+I look forward to working with you.
+
 ...
 
-When I'm not coding, I am tucked in and progressing in my current videogame.
+When I'm not coding, you can find me progressing in my current videogame or manipulating my way to victory in a boardgame.

@@ -25,8 +25,4 @@ I promise you won't be disappointed if you hire me.
 
 ...
 
-On evenings, you'll find me cooped up playing videogames.
-
-I really want Super Mario Odyssey and Stardew Valley right now, but I'm waiting until Black Friday to get the Nintendo Switch.
-
-Next year, Monster Hunter World is coming out...
+When I'm not coding, I am tucked in and progressing in my current videogame.

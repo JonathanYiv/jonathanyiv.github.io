@@ -24,7 +24,7 @@ I am passionate about building beautiful websites, managing big data, developing
 I promise you won't be disappointed if you hire me.
 
 I have a track record of data-driven decisions, success, and working with a large team. 
-These skills will translate directly towards building an excellent product and strong communication with you and our team.
+These skills will translate directly toward building an excellent product and having strong communication with you and our team.
 
 ...
 

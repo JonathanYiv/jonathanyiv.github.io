@@ -13,18 +13,19 @@ In 2013 I left home after graduating high school and started to live independent
 
 I biked miles to my first job for minimum wage to support myself.
 
-After two years of hard work, I was managing my own Domino's store and had built a great team of people that I relied on.
+After two years of hard work and promotions, I was given my own worn-down Domino's store.
 
-For the next two years, I built up a network of manager colleagues, trained employees from the ground up to their own store, and broke store records.
+For the next two years, that store was my baby. I built up a great team of reliable people, a network of manager colleagues, trained employees from the ground up to their own store, and broke store records.
 
-My next big step in life is to become a software engineer.
+I learned about opportunities for promotion, but realized that this isn't what I want to do. I spent time reflecting and discovered a passion for coding.
 
 I am passionate about building beautiful websites, managing big data, developing complex yet concise business logic, incorporating multiple languages, workflows, implementing creative solutions for challenging problems, and making a difference.
 
-I am a proven asset that will be invaluable to your team.
+I want to be a software engineer.
 
-I have a track record of data-driven decisions, effective communication, and success.
-These skills will translate directly toward building an excellent product and having strong communication with you and our team.
+I will work hard. I will learn whatever I need to learn. I will whatever roles I need to fill.
+
+I will be the guy that gets it done.
 
 ...
 

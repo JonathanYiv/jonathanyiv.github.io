@@ -11,7 +11,7 @@ Click the "Play" button on the embedded REPL.its to try the game!
 
 ___
 
-## Chess
+## Chess (Put all these on separate pages!)
 
 [![Chess](/assets/images/chess.png)](https://github.com/JonathanYiv/chess)
 

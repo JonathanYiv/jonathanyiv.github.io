@@ -24,3 +24,11 @@ I am passionate about building beautiful websites, managing big data, developing
 I would like to be on the bleeding edge of technology one day.
 
 I promise you won't be disappointed if you hire me.
+
+...
+
+On evenings, you'll find me cooped up playing videogames.
+
+I really want Super Mario Odyssey and Stardew Valley right now, but I'm waiting until Black Friday to get the Nintendo Switch.
+
+Next year, Monster Hunter World is coming out...

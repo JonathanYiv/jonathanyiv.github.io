@@ -11,7 +11,7 @@ Click on the title to be directed to the live Heroku site.
 
 These are some basic web applications I made in the process of learning Rails fundamentals.
 
-They aren't amazing or even sellable, obviously, but they each iterate in complexity and reduction of ugliness.
+They iterate in complexity and design.
 
 I focused on understanding the 'magic' behind-the-scenes and understanding how Rails works.
 

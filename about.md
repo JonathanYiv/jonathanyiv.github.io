@@ -7,23 +7,23 @@ author_profile: true
 
 ___
 
-Hey there!
-
 My name is Jonathan Yiv.
 
 In 2013 I left home after graduating high school and started to live independently.
 
 I biked miles to my first job for minimum wage to support myself.
 
-After two years of hard work, I was managing my own store and had built a great team of people that I relied on.
+After two years of hard work, I was managing my own Domino's store and had built a great team of people that I relied on.
 
-...
+/For the next two years, I built up a network of manager colleagues, trained employees from the ground up to their own store, and pushed my store to new limits.
 
 My next big step in life is to become a software engineer.
 
 I am passionate about building beautiful websites, managing big data, developing complex yet concise business logic, incorporating multiple languages, workflows, implementing creative solutions for challenging problems, and making a difference.
 
 I promise you won't be disappointed if you hire me.
+
+I have a track record of data-driven decisions, success, and working with a large team.
 
 ...
 

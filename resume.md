@@ -79,25 +79,14 @@ Ensured deliveries were packaged correctly, delivered quickly through usage of s
 I would often take two deliveries while my coworkers took one.
 
 
-## Flow Team Member - Target
+## Team Member - Target
 
-<sub>Mar 2014 - Jul 2014</sub>
+<sub>Sep 2013 - Jul 2014</sub>
 
-Unloaded the truck and processed packages on a rapidly moving assembly line toward their correct palettes.
-
-Oversaw assembly line operations to ensure maximum efficiency.
-
-Properly stacked boxes on the palettes to achieve maximum height.
+Unloaded the truck and stacked packages on a rapidly moving assembly line on their correct palettes.
 
 Delivered palettes to appropriate store locations and filled shelves quickly and efficiently.
 
+Ferried carts and baskets from racks throughout the store regularly to ensure the store was stocked and that the racks did not overflow.
 
-## Cart Attendant - Target
-
-<sub> Sep 2013 - Mar 2014</sub>
-
-Ferried carts from cart racks into the store regularly to ensure the store was stocked and the cart racks did not overflow.
-
-Ensured shopping baskets were spread throughout the store and that the cashier bins were emptied out and processed accordingly.
-
-Floated to help cashiers, guest service, and food service.
+Floated to help cashiers, guest services, and food service.

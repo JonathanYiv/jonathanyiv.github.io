@@ -11,7 +11,7 @@ My name is Jonathan Yiv.
 
 In 2013 I left home after graduating high school and started to live independently.
 I biked miles to my first job for minimum wage to support myself.
-After two years of hard work and promotions, I was given my own worn down Domino's store.
+After two years of hard work and promotions, I was given my own worn down Domino's store to manage.
 
 For the next two years, that store was my baby. I poured my heart and soul into making it outstanding. I built up a great team of reliable people, a network of manager colleagues, trained employees from the ground up until they could obtain their own stores, received awards, and broke store records.
 

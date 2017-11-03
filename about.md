@@ -20,7 +20,9 @@ I am passionate about building beautiful websites, managing big data, developing
 
 I want to be a software engineer.
 
-I will work hard. I will learn whatever I need to learn. I will whatever roles I need to fill.
+I am a team player.
+
+I will work hard. I will learn whatever I need to learn. I will fill whatever roles I need to fill.
 
 I will be the guy that gets it done.
 

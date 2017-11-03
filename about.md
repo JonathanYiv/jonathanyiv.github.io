@@ -22,7 +22,9 @@ I want to be a software engineer.
 
 I will strive to be a valuable asset to your company, both as an independent worker, and as a team player.
 
-I will demonstrate determination and grit when it comes to learning new skills needed for the job. I will make great effort to go above and beyond while fulfilling all tasks given to me.
+I will demonstrate determination and grit when it comes to learning new skills needed for the job. 
+
+I will make great effort to go above and beyond while fulfilling all tasks given to me.
 
 I am the guy that gets it done.
 

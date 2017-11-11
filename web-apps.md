@@ -13,7 +13,7 @@ ___
 
 ## [Odinbook](https://serene-coast-95388.herokuapp.com)
 
-[![Flight Booker](/assets/images/flight_booker.png)](https://github.com/JonathanYiv/flight-booker)
+[![Odinbook](/assets/images/odinbook.png)](https://github.com/JonathanYiv/odinbook)
 
 This is an implementation of Facebook in Rails without the AJAX and Chat features.
 
